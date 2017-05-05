@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-
-    <link rel="stylesheet" type="text/css" href="reset.css">
-    <link rel="stylesheet" type="text/css" href="orgsoaps.css">
-    <style>
-
-     img {
+img {
         float: left;
         padding-right: 20px;
         padding-top: 0px;
@@ -64,37 +56,3 @@
         float: right;
 
        }
-
-
-
-    </style>
-  </head>
-
-  <body> 
-
-     <div style="clear: both;"></div>
-     <div class="clear"></div>
-    
-
-     <div class="top">       <h1> Organics </h1>  
-
-     
-       </div>
-
-     <div class="left-column">
-   
-      <img src="soap1.jpg" height="280px"/>
-
-      </div> 
-  
-     <div class="right-column">  </div>   
-
-     <div class="footer">
-
-      <img class="soapz" src="soap3.jpg" height="280px"/>
-  	
-     </div>
-
-
-   </body>
-</html>
